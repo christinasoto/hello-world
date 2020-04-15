@@ -1,2 +1,2 @@
 # hello-world
-A repository for Midterm 2.
+I am in CS108 at SDSU.
