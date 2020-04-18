@@ -1,2 +1,2 @@
 # hello-world
-I am in CS108 at SDSU.
+My name is Christina, I am ateending SDSU and enrolled in CS108.
